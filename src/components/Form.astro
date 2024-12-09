@@ -1,0 +1,72 @@
+
+    <div class="form-container">
+        <header>
+            <h5>FOR MORE DETAILS,</h5>
+            <h2>Contact Us</h2>
+        </header>
+        <form>
+            <div class="form-input">
+                <label for="fullName">Full Name</label>
+                <input type="text" id="fullName" placeholder="e.g John Kamau">
+            </div>
+            <div class="form-input">
+                <label for="email">Email</label>
+                <input type="text" id="email" placeholder="e.g @johnkamau@gmail.com">
+            </div>
+            <div class="form-input">
+                <label for="message">Your Message</label>
+                <textarea id="message" cols="20" rows="8"></textarea>
+            </div>
+        </form>
+    </div>
+
+<style>
+    .form-container {
+        max-width: 40rem;
+        width: 100%;
+        margin: 0 auto;
+        box-shadow: 0px 4px 16px 0px rgba(51,60,79,0.16);
+        -webkit-box-shadow: 0px 4px 16px 0px rgba(51,60,79,0.16);
+        -moz-box-shadow: 0px 4px 16px 0px rgba(51,60,79,0.16);
+        border-radius: 12px;
+    }
+
+    header {
+        padding: 2rem;
+        border-radius: 0.75rem 0.75rem 0 0;
+        color: #fff;
+        background: #333c4f;
+    }
+    
+    form {
+        padding: 0.5rem 1rem;
+    }
+
+    .form-input {
+        width: calc(100% - 10rem);
+        margin: 20px auto;
+    }
+
+    label {
+        font-size: 0.825rem;
+        font-weight: 600; 
+    }
+
+    textarea {
+        resize: none;
+    }
+
+    input, textarea {
+        display: block;
+        width: 100%;
+        padding: 0.75rem 1rem;
+        outline: none;
+        border: none;
+        background: #e2e2e2;
+        cursor: pointer;
+    }
+
+    input:hover, textarea:hover {
+        box-shadow: 0px 2px 4px 0px rgba(51,60,79,0.16);
+    }
+</style>

@@ -1,0 +1,103 @@
+<div class="room-container">
+    <div class="rooms">
+        <div class="room3"><img src="rooms/room3.png" alt=""></div>
+        <div class="side-rooms"><img src="rooms/room2.png" alt="">
+        <img  src="rooms/room1.png" alt="">
+    </div>
+    </div>
+    <div class="content">
+        <div class="content__header">
+            <h4>Fully furnished one bedroom</h4>
+            <p><span class="muted">KSH</span> 3500</p>
+        </div>
+        <ul class="features__list">
+            <li>
+                <p>2 Guests</p>
+            </li>
+            <li>
+                <p>1 Bedroom</p>
+            </li>
+            <li>
+                <p>1 Bed</p>
+            </li>
+            <li>
+                <p>1 Bath</p>
+            </li>
+        </ul>
+            <div class="content__footer">
+                <p>16 units available</p>
+                        <button class="cta">Book this room</button>
+            </div>
+    </div>
+</div>
+
+
+<style>
+    .room-container {
+        width: 100%;
+        max-width: 40rem;
+        padding: 20px 50px;
+        box-shadow: 0px 4px 16px 0px rgba(51,60,79,0.16);
+        -webkit-box-shadow: 0px 4px 16px 0px rgba(51,60,79,0.16);
+        -moz-box-shadow: 0px 4px 16px 0px rgba(51,60,79,0.16);
+    }
+
+    img {
+        display: block;
+        object-fit: cover;
+        object-position: center;
+    }
+    .rooms {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+    }
+
+    .rooms img {
+        width: 20rem;
+        height: 20rem;
+    }
+
+    .side-rooms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .side-rooms img {
+        width: 10rem;
+        height: 10rem;
+    }
+    
+    .content {
+        margin: 20px;
+    }
+
+    .features__list {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        margin: 0.75rem;
+    }
+
+    .content p {
+        display: block;
+        font-size: 0.825rem;
+        font-weight: 600;
+    }
+
+    .content__header, .content__footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .content__header p  span{
+        font-size: 0.625rem;
+        font-weight: 700;
+    }
+
+
+</style>
