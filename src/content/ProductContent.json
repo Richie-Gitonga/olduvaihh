@@ -1,0 +1,20 @@
+{
+  "title": "Special Services",
+  "content": "We also offer special serices such as small event spaces, business meetings, birthday parties and group hangouts at an affordable fee. Reach out to us below and we'll get you a quote",
+  "button": "Get a Quote",
+  "product": [
+    {
+      "title": "Small Parties and Group hangouts",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "direction": "left",
+      "icon": "front_view.jpg"
+    },
+    {
+      "title": "Business Meetings",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "direction": "right",
+      "icon": "kitchen_side.jpg"
+    }
+  ]
+}
+

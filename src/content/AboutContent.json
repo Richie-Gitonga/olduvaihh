@@ -1,0 +1,34 @@
+{
+  "title": "Light, fast & responsive",
+  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "section": [
+    {
+      "title": "Ample Security",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "https://img.icons8.com/ios-filled/50/479cfc/unlock-private.png"
+    },
+    {
+      "title": "Fast and reliable wifi",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "https://img.icons8.com/ios-filled/50/479cfc/wifi-logo.png"
+    },
+    {
+      "title": "24/7 support",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "https://img.icons8.com/sf-black-filled/64/479cfc/online-support.png"
+    },
+    {
+      "title": "Free Breakfast",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "https://img.icons8.com/ios-filled/50/479cfc/cafe.png"
+    }
+  ],
+  "images": [
+    "amenity/security.jpg",
+    "amenity/wifi.jpg",
+    "view/restaurant.jpg",
+    "view/kitchen.jpg",
+    "view/hotel_front.jpg",
+    "amenity/security2.jpg"
+  ]
+}

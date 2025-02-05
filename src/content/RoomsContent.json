@@ -1,0 +1,15 @@
+{
+    "title": "Our Rooms",
+    "content": "We offer a number of fully furnished one bedroom and studio units.",
+    "button": "Book Now",
+    "images": [
+        "rooms/room_balcony.jpg",
+        "rooms/stairway.jpg",
+        "rooms/room_kitchen.jpg",
+        "rooms/room_sitting.jpg",
+        "rooms/room_kitchen2.jpg",
+        "rooms/room_balcony2.jpg",
+        "rooms/room_bedroom.jpg",
+        "rooms/front_room.jpg"
+    ]
+}
