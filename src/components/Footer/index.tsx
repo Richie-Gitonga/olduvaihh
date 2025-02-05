@@ -26,7 +26,7 @@ const Footer = ({ t }: { t: TFunction }) => {
         key={src}
         aria-label={src}
       >
-        <img src={src} width="48px" height="48px" />
+        <img src={src} width="32px" height="32px" />
       </a>
     );
   };

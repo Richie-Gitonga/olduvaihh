@@ -9,7 +9,7 @@ const Gallery: React.FC<GalleryProps> = ( {children} ) => {
 
 	return (
 		<ResponsiveMasonry
-                columnsCountBreakPoints={{350: 2, 750: 2, 900: 3}}
+                columnsCountBreakPoints={{350: 2, 900: 4}}
             >
                 <Masonry gutter="10px">
                     {children}
